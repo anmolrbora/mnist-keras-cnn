@@ -14,4 +14,4 @@ Dataset used: <b>MNIST</b><br>
 
 Libraries required: <br>
 * [keras](https://keras.io/#installation)<br>
-* [Tensorflow](https://www.tensorflow.org/install/)
+* [TensorFlow](https://www.tensorflow.org/install/)
